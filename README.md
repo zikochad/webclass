@@ -10,7 +10,7 @@ This is my HTML file
 ### Markdown
 
 
-```markdown
+```html
  <!DOCTYPE html>
 <html>
 <head>
@@ -64,7 +64,7 @@ This is my HTML file
  ```
  
  and this is my CSS style file
- ```markdown
+ ```html
  *{
 	box-sizing: border-box;
 }
