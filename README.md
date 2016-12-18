@@ -8,7 +8,7 @@ Thanks a lot for taking the time to grade my code. Have a great day and happy co
 
 This is my HTML file
 
-```markdown
+```
  <!DOCTYPE html>
 <html>
 <head>
@@ -62,7 +62,7 @@ This is my HTML file
  ```
  
  and this is my CSS style file
- ```markdown
+ ```
  *{
 	box-sizing: border-box;
 }
